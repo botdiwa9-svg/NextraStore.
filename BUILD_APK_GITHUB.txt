@@ -1,0 +1,9 @@
+NEXTRA STORE — CLOUD BUILD
+1. สร้าง GitHub repository ใหม่ เช่น NextraStore
+2. อัปโหลดไฟล์ทั้งหมดในโปรเจกต์นี้ขึ้น repository (รวม gradlew และโฟลเดอร์ app)
+3. เปิดแท็บ Actions
+4. เลือก Build Nextra Store APK
+5. กด Run workflow
+6. รอให้เสร็จเป็นสีเขียว
+7. เปิดงาน แล้วดาวน์โหลด Artifact ชื่อ Nextra-Store-debug
+8. แตก ZIP แล้วติดตั้ง APK บน Android
